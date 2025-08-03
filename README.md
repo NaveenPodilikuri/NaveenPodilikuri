@@ -1,11 +1,12 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naveen%20Podilikuri&fontSize=40&fontColor=ffffff" />
-</p>
+
 
 <!-- Profile Image -->
 <p align="center">
   <img src="./res%20pic.jpg" alt="Naveen Podilikuri" width="200" style="border-radius: 50%;" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naveen%20Podilikuri&fontSize=40&fontColor=ffffff" />
 </p>
 
 ### 👋 Hello, I'm Naveen Podilikuri
