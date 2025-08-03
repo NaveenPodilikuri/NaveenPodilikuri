@@ -6,35 +6,50 @@
 ### 👋 Hello, I'm Naveen Podilikuri!
 
 🎓 3rd-Year B.Tech CSE Student at **CMR Institute of Technology**  
-🚀 Passionate about AI, LLMs, Cloud, and Full-Stack Projects  
+🚀 Passionate about AI, Cloud, DevOps, and Full-Stack Development  
 🏆 Hackathon Enthusiast | Solo Developer | Open Source Contributor  
 
 ---
 
 ### 🛠 Tech Stack
 
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🧠 AI/ML & Data
+![Machine Learning](https://img.shields.io/badge/AI%20&%20ML-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFA500?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### 🚀 Highlight Projects
 
 #### 🧠 AI-Powered Server Log Management Software
-> Built an AI system to classify, summarize, and visualize server logs using NLP and React dashboards  
+> Built an AI system to classify, summarize, and visualize server logs using NLP and dashboards  
 [🔗 GitHub Repo](https://github.com/NaveenPodilikuri/AI-Powered-Server-Log-Management-Software)
 
 #### 📄 Adobe Hackathon – Multi-Collection PDF Analyzer
-> Extracts structured outlines from legal documents using Python and Tree-based NLP logic  
+> Extracts structured outlines from documents using Python and Tree-based NLP logic  
 [🔗 Challenge 1A](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1A) | [🔗 Challenge 1B](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1B)
 
 #### 🌐 Personal Portfolio Website (React + Tailwind)
-> Interactive, responsive personal portfolio site with animations and projects  
+> Interactive portfolio with animations and project showcases  
 [🔗 GitHub Repo](https://github.com/NaveenPodilikuri/greatstack-style-portfolio)
 
 ---
