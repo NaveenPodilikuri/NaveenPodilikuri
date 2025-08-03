@@ -1,13 +1,18 @@
-<!-- Profile Header Image -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naveen%20Podilikuri&fontSize=40&fontColor=ffffff" />
 </p>
 
-### 👋 Hello, I'm Naveen Podilikuri!
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://your-image-link.jpg" alt="Naveen Podilikuri" width="200" style="border-radius: 50%;" />
+</p>
+
+### 👋 Hello, I'm Naveen Podilikuri
 
 🎓 3rd-Year B.Tech CSE Student at **CMR Institute of Technology**  
-🚀 Passionate about AI, Cloud, DevOps, and Full-Stack Development  
-🏆 Hackathon Enthusiast | Solo Developer | Open Source Contributor  
+🚀 Passionate about **AI, Cloud, and Full-Stack Development**  
+🏆 Hackathon Enthusiast | Solo Developer | Open Source Contributor
 
 ---
 
@@ -16,16 +21,19 @@
 #### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🧠 AI/ML & Data
-![Machine Learning](https://img.shields.io/badge/AI%20&%20ML-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+#### 🧠 AI / ML / Data Analysis
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFA500?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### ☁️ Cloud & DevOps
@@ -35,21 +43,22 @@
 
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🚀 Highlight Projects
+### 🚀 Featured Projects
 
 #### 🧠 AI-Powered Server Log Management Software
-> Built an AI system to classify, summarize, and visualize server logs using NLP and dashboards  
+> Automates log analysis, threat detection, and dashboards using AI  
 [🔗 GitHub Repo](https://github.com/NaveenPodilikuri/AI-Powered-Server-Log-Management-Software)
 
 #### 📄 Adobe Hackathon – Multi-Collection PDF Analyzer
-> Extracts structured outlines from documents using Python and Tree-based NLP logic  
+> Extracts structured outlines from legal documents using Python  
 [🔗 Challenge 1A](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1A) | [🔗 Challenge 1B](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1B)
 
-#### 🌐 Personal Portfolio Website (React + Tailwind)
-> Interactive portfolio with animations and project showcases  
+#### 🌐 Portfolio Website
+> React-based interactive portfolio built with modern UI/UX  
 [🔗 GitHub Repo](https://github.com/NaveenPodilikuri/greatstack-style-portfolio)
 
 ---
