@@ -5,7 +5,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://your-image-link.jpg" alt="Naveen Podilikuri" width="200" style="border-radius: 50%;" />
+  <img src="./res%20pic.jpg" alt="Naveen Podilikuri" width="200" style="border-radius: 50%;" />
 </p>
 
 ### 👋 Hello, I'm Naveen Podilikuri
@@ -21,9 +21,7 @@
 #### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,8 +72,8 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenpodilikuri)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenpodilikuri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenpodilikuri)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenpodilikuri@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://naveenpodilikuri.vercel.app/)
 
 ---
