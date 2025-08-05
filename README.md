@@ -75,6 +75,9 @@
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://naveenpodilikuri.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="starfield" />
+</p>
 
 
 ## 🐍 Contribution Snake
