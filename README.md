@@ -3,16 +3,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naveen%20Podilikuri&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hey!+I'm+Naveen+Podilikuri;Full-Stack+%7C+AI+%7C+Cloud+Developer;B.Tech+CSE+Student+at+CMR+Institute+of+Technology;Let's+connect+and+create!" alt="Typing SVG" />
+</p>
+
 <!-- Profile Image -->
 <p align="center">
   <img src="./res%20pic.jpg" alt="Naveen Podilikuri" width="200" style="border-radius: 50%;" />
 </p>
 
+---
+
 ### 👋 Hello, I'm Naveen Podilikuri
 
 🎓 B.Tech CSE Student at **CMR Institute of Technology**  
 🚀 Passionate about **AI, Cloud, and Full-Stack Development**  
-🏆 Hackathon Enthusiast | Solo Developer | Open Source Contributor
+🏆 Hackathon Enthusiast | Solo Developer | Open Source Contributor  
 
 ---
 
@@ -68,6 +75,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenPodilikuri&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenPodilikuri&theme=dracula" />
+</p>
+
 ---
 
 ### 🌐 Let's Connect
@@ -78,6 +89,7 @@
 
 ---
 
+<!-- Footer Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=100&section=footer" />
 </p>
