@@ -5,12 +5,16 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hey!+I'm+Naveen+Podilikuri;Full-Stack+%7C+AI+%7C+Cloud+Developer;B.Tech+CSE+Student+at+CMR+Institute+of+Technology;Let's+connect+and+create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF61C3&center=true&vCenter=true&width=600&lines=Hey!+I'm+Naveen+Podilikuri;AI+%7C+Cloud+%7C+DevOps+Engineer;Hackathon+Lover+%7C+Open+Source+Contributor;Let's+Build+Cool+Stuff+Together!" />
 </p>
 
-<!-- Profile Image -->
+<!-- Profile Image with Fun GIF -->
 <p align="center">
   <img src="./res%20pic.jpg" alt="Naveen Podilikuri" width="200" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180" />
 </p>
 
 ---
@@ -25,34 +29,20 @@
 
 ### 🛠 Tech Stack
 
-#### 💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-#### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-#### 🧠 AI / ML / Data Analysis
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFA500?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,mongodb,mysql,aws,docker,kubernetes,tensorflow,openai" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
+
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  🚀 AI-Powered Server Log Management &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  📄 Adobe PDF Analyzer &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🌐 React Portfolio Website &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🔍 NLP Document Retriever
+</marquee>
 
 #### 🧠 AI-Powered Server Log Management Software
 > Automates log analysis, threat detection, and dashboards using AI  
@@ -75,21 +65,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenPodilikuri&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenPodilikuri&theme=dracula" />
-</p>
-
 ---
 
-### 🌐 Let's Connect
+### 🐍 Contribution Snake (Animated Grid)
+> 🔧 Enable GitHub Actions to activate this
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenpodilikuri)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenpodilikuri@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://naveenpodilikuri.vercel.app/)
-
----
-
-<!-- Footer Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=100&section=footer" />
-</p>
+```md
+![Snake animation](https://github.com/NaveenPodilikuri/NaveenPodilikuri/blob/output/github-contribution-grid-snake.svg)
