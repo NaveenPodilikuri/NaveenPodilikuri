@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naveen%20Podilikuri&fontSize=40&fontColor=ffffff" />
 </p>
-<!-- Background Animation (Stars) -->
-<p align="center">
-  <img src="https://i.imgur.com/wAX2U6u.gif" width="100%" alt="animated background" />
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
