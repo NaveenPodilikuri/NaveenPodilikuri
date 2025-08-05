@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naveen%20Podilikuri&fontSize=40&fontColor=ffffff" />
 </p>
+<!-- Background Animation (Stars) -->
+<p align="center">
+  <img src="https://i.imgur.com/wAX2U6u.gif" width="100%" alt="animated background" />
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -74,9 +78,7 @@
   <a href="https://www.linkedin.com/in/naveen-podilikuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://naveenpodilikuri.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="starfield" />
+   <a href="mailto:naveenpodilikuri123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
