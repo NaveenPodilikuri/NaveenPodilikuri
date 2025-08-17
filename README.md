@@ -45,15 +45,41 @@
 
 #### 🧠 AI-Powered Server Log Management Software
 > Automates log analysis, threat detection, and dashboards using AI  
-[🔗 GitHub Repo](https://github.com/NaveenPodilikuri/AI-Powered-Server-Log-Management-Software)
+[🔗 GitHub Repo](https://github.com/NaveenPodilikuri/AI-Powered-Server-Log-Management-Software)  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" alt="AI Log Management Demo" />
+</p>
+
+---
 
 #### 📄 Adobe Hackathon – Multi-Collection PDF Analyzer
 > Extracts structured outlines from legal documents using Python  
-[🔗 Challenge 1A](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1A) | [🔗 Challenge 1B](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1B)
+[🔗 Challenge 1A](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1A) | [🔗 Challenge 1B](https://github.com/NaveenPodilikuri/Adobe_Hackathon-Challenge-1B)  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="600" alt="Adobe PDF Analyzer Demo" />
+</p>
+
+---
 
 #### 🌐 Portfolio Website
 > React-based interactive portfolio built with modern UI/UX  
-[🔗 GitHub Repo](https://github.com/NaveenPodilikuri/greatstack-style-portfolio)
+[🔗 GitHub Repo](https://github.com/NaveenPodilikuri/greatstack-style-portfolio)  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Portfolio Website Demo" />
+</p>
+
+---
+
+#### 🔍 NLP Document Retriever
+> Intelligent search & retrieval system for unstructured text documents  
+[🔗 GitHub Repo](https://github.com/NaveenPodilikuri) <!-- replace with repo link -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="NLP Document Retriever Demo" />
+</p>
 
 ---
 
