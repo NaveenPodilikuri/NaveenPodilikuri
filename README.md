@@ -72,7 +72,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake 
 
 ![GitHub Snake](https://raw.githubusercontent.com/NaveenPodilikuri/NaveenPodilikuri/output/github-contribution-grid-snake.svg#gh-dark-mode-only)  
 ![GitHub Snake dark](https://raw.githubusercontent.com/NaveenPodilikuri/NaveenPodilikuri/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
