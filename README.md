@@ -3,16 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Naveen%20Podilikuri&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF61C3&center=true&vCenter=true&width=600&lines=Hey!+I'm+Naveen+Podilikuri;AI+%7C+Cloud+%7C+DevOps+Engineer;Hackathon+Lover+%7C+Open+Source+Contributor;Let's+Build+Cool+Stuff+Together!" />
 </p>
 
-<!-- Profile Image with Fun GIF -->
+<!-- Profile Image + Fun GIF -->
 <p align="center">
   <img src="./res%20pic.jpg" alt="Naveen Podilikuri" width="200" style="border-radius: 50%;" />
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180" />
 </p>
@@ -58,29 +57,53 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenPodilikuri&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenPodilikuri&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenPodilikuri&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenPodilikuri&theme=radical" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenPodilikuri&theme=dracula&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="600" />
+</p>
 
 ---
-## 📬 Connect with me
 
-<p align="left">
+### 🏆 Achievements & Fun
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaveenPodilikuri&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 📬 Connect with me
+
+<p align="center">
   <a href="https://github.com/NaveenPodilikuri" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/naveen-podilikuri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://naveenpodilikuri.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-   <a href="mailto:naveenpodilikuri123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:naveenpodilikuri123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
-Generated with GitHub Actions:
-![GitHub Snake](https://raw.githubusercontent.com/NaveenPodilikuri/NaveenPodilikuri/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/NaveenPodilikuri/NaveenPodilikuri/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NaveenPodilikuri/NaveenPodilikuri/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/NaveenPodilikuri/NaveenPodilikuri/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only" />
+</p>
 
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=100&section=footer" />
